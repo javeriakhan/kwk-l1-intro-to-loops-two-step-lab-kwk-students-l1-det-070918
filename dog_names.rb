@@ -1,2 +1,3 @@
-table_names = ["Javeria","Brianna" "Waincey", "Sophia", "Sumaia"]
-puts table_names.first
+dog_names = ["Blaze", "Belle", "Willow", "Crockett"]
+  dog_names.push("Rihanna")
+  puts dog_names
