@@ -1,3 +1,3 @@
 dog_names = ["Blaze", "Belle", "Willow", "Crockett"]
-  dog_names.push("Rihanna")
+  dog_names << ("Rihanna")
   puts dog_names
