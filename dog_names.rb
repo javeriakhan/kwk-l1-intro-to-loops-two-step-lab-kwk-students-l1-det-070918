@@ -1,2 +1,2 @@
-dog_names = ["Blaze", "Belle", "Willow", "Crockett"]
-puts dog_names
+table_names ["Javeria","Brianna" "Waincey", "Sophia", "Sumaia"]
+puts table_names
