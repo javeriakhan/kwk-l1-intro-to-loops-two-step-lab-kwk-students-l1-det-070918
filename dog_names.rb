@@ -1,2 +1,2 @@
-dog_names = ["Blaze", "Belle", "Willow", "Crockett"]
-  puts dog_names.size
+family_member_names = ["Humaira", "Siraj", "Mashal", "Mehvish", "Javeria"]
+puts family_member_names << ("Rubber Duck")
